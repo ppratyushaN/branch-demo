@@ -2,7 +2,11 @@
 
 function App() {
   return (
-    <>hello</>
+    <>
+      Kod_App
+      <Classes />
+      <Attendance />
+    </>
   );
 }
 
